@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "renmingming"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bower_com",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "renmingming",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "bower": "^1.8.0",
+    "express": "^4.14.1",
+    "jade": "^1.11.0",
+    "moment": "^2.17.1",
+    "mongoose": "^4.8.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "bcrypt": "^1.0.2",
+    "bcryptjs": "^2.4.3",
+    "connect-mongo": "^1.3.2",
+    "cookie-parser": "^1.4.3",
+    "express-session": "^1.15.1",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-nodemon": "^0.4.2"
+  }
+}
